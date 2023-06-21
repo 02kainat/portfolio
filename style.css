@@ -1,0 +1,88 @@
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: inherit;
+    font-family: 'Itim', cursive;
+   background-color: #F7EFE5; ;
+}
+html{
+    scroll-behavior: smooth;
+}
+.nav-container
+{
+    background-color: #C3ACD0;
+}
+nav ul {
+    float:right;
+}
+nav li{
+    display: inline-block;
+    list-style:none;
+}
+nav li a{
+    font-size: 18px;
+    padding: 0px 30px;
+    text-decoration: none;
+}
+h1,h2,p
+{
+  color:#674188 
+    
+}
+#first{
+    position: relative;
+    bottom: 550px;
+    margin: 0% auto 50px auto;
+}*/
+img{
+    width: 1000px;
+    height: 300;
+}
+#second
+{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+#pic
+{
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+}
+h3,a{
+    color: #11999E;
+}
+
+
+h1{
+    
+   line-height:10px;
+   position: relative; bottom: 2px;
+   margin-top: 5px;
+}
+p{
+    width: 300px;
+    margin: auto;
+}
+.bottom-container
+{
+    background-color:#C3ACD0;
+}
+hr{
+    color: #C3ACD0; 
+}
+   .education-data:hover {
+      -webkit-transform: scale(1.1);
+      -ms-transform: scale(1.1);
+      transform: scale(1.1);
+      transition: 1s ease;
+    }
+.education-name{
+    color:#11999E;
+    
+}
+  
+  
+  
